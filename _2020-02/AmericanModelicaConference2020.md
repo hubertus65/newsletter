@@ -4,21 +4,19 @@ author: "Hubertus Tummescheit ([Modelica Association](https://www.modelica.org/)
 category: "letter"
 ---
 
-Due to the COVID-19 situation, the American Modelica conference 2020 had to be postponed and converted to a virtual event. 
-The new dates are September 22-24, 2020, for the main conference, and the free workshops schedule will also be online on the dates 
-shortly before and after the conference dates. The format of a virtual conference will allo us to reach a much broader and hopefully 
-much more global audience. We have come up with the following format to support a global audience and get as close as possible to a life event: 
-  * Registration for participants is very cheap at $25 per person only and open at ([Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981)). Please note that workshop registration is currently closed, but will be reopened soon. 
+In response to the COVID-19 pandemic, the American Modelica Conference 2020 has been converted to a virtual event that will take place from September 22-24, 2020.  This new virtual format will allow us to substantially broaden the global reach of the conference.  We have developed the following framework to support a global audience and get as close as possible to a live event:
+  * Registration for participants is quite inexpensive at $25 per person, and presently open at ([Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981)). 
+  * We plan to continue to offer free workshops before and after the conference dates.  These tickets are presently closed, but we expect that they will be reopened soon after we finish making suitable arrangements. 
   * All presentations will be pre-recorded and will be available to registered participants between the 22nd and 24th of September to watch at any time.
-  * There will also be a life, virtual Q&A session, as well as life, virtual "Birds-of-a-feather" sessions, starting from 9 am US Mountain time. 
-  * You can access the ([conference schedule] (https://modelica.org/events/modelica2020Americas/program-outline)) online.
-  * All participants can interact with one another through a conference web-app using the ([Whova](https://whova.com/)), exchange business 
-  cards and discuss Modelica-related topics. 
-  * Registration for Gold and Silver sponsors is still available. You can interact with participants through the web-app, which also supports registering leads. 
-  * Questions to authors can be submitted through the session Q&A available in the web-app or streaming app, and will be answered by authors even if you cannot listen in to the life stream at US Mountain time. 
+  * There will be live Q&A as part of each conference session, as well as live "Birds-of-a-Feather" sessions that will invite discussions of interest to the Modelica community.
+  * The conference sessions will take place each day from 9am to approximately 1pm U.S. Mountain time, with occasional coffee breaks to reduce screen fatigue.
+  * The ([conference schedule] (https://modelica.org/events/modelica2020Americas/program-outline)) is available and can be accessed online.
+  * All participants will be able to interact with one another through a conference web-app using ([Whova](https://whova.com/)) for many purposes, including the exchange of business cards and discussion of Modelica-related topics. 
+  * Registration for Gold and Silver sponsors is still available.  Sponsors can interact with participants through the web-app, which also supports registering leads. 
+  * Questions to authors can be submitted through the session Q&A available in the web-app or streaming app, and will be answered by authors even if you cannot listen in to the live stream at US Mountain time. 
   * Authors and presenters will receive instructions and support from a professional videographer to produce high-quality pre-recorded presentations. 
-  
-We hope that this setup will allow us to attract many more participants than are usuallly able to travel internationally. As common even for the smaller Modelica-conferences, we have a good selection of high-quality papers that makes it worth while your time to attend the conference!
+
+We hope that these arrangements will allow us to attract many more participants than are usually able to travel internationally. As is common even for the smaller Modelica conferences, we have a good selection of high-quality papers that will make it worth while your time to attend the conference!
 
 The organizers of the 2020 American Modelica Conference, the ([North American Modelica Users Group](https://namug.org/)) and the ([Modelica Association](https://www.modelica.org/))
   
